@@ -19,7 +19,7 @@ This is a simple card generator tool that simulates generating and validating cr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/card-generator.git
+   git clone https://github.com/OxiJenuuu/alexCC.git
    ```
 
 2. Install the dependencies:
