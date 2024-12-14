@@ -1,0 +1,17 @@
+{
+  "name": "alexcc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "crypto": "^1.0.1",
+    "yargs": "^17.7.2"
+  }
+}
