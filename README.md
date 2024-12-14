@@ -24,7 +24,7 @@ This is a simple card generator tool that simulates generating and validating cr
 
 2. Install the dependencies:
    ```bash
-   cd card-generator
+   cd alexCC
    npm install
    ```
 
